@@ -11,7 +11,7 @@
   "keywords": [],
   "name": "jsx-button",
   "homepage": ".",
-  "description": null,
+  "description": "jsx-button",
   "version": "0.0.4",
   "scripts": {
     "start": "react-scripts start",
